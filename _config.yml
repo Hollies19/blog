@@ -1,0 +1,14 @@
+title: 滕宇堃的博客
+description: 人文 × 可持续 × 协作方法的在地记录
+theme: minima
+url: ""            # 部署后可改为 https://你的用户名.github.io
+baseurl: "/blog"   # 作为项目站点挂在 /blog 路径
+lang: zh-CN
+timezone: Asia/Shanghai
+author: "滕宇堃"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+minima:
+  date_format: "%Y-%m-%d"
+  skin: dark
