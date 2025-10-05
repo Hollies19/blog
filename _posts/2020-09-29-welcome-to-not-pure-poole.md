@@ -1,169 +1,213 @@
 ---
 layout: post
-title: Welcome to Not Pure Poole
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
+title: 而立之年，我们想用业余时间在大理开启一种新生活
+date: 2024-01-20 18:18 +0800
+last_modified_at: 2024-01-20 19:08:25 +0800
+tags: [大理]
 toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
-{: .message }
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=MTgyZDZjN2E1NDY1MzU3NzhjNDFkZjNkZDEzZTY2NDBfYVdwTlB6U2k1b1hKMGdQRUdtQWp0ZXNVOVUwZHppTE5fVG9rZW46VkI2ZmJLYW1Wb2RwOGp4Y2JnV2NBM3NlbkNiXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
+**>> 引子**
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+9月19日
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+我热爱工作！！
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+9月20日
 
-## Inline HTML elements
+不想工作，爱不动了，躺下。
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+——精神逐渐失常的人类
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- <mark>To highlight</mark>, use `<mark>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+**>> 日记**
 
-Most of these elements are styled by browsers with few modifications on our part.
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTM5YTdmZjdhZWQwMzI1NGZiZDVmY2E2MmNkZmNlNzhfMHF4bUFPY3N3ZmJ6dVVRSkd0WERERjJaMXZoZzVJQmRfVG9rZW46U3ljcmI5dWNIbzVnYUl4WDdicWNId2lwbnVkXzE3NTk2ODAzNjg6MTc1OTY4Mzk2OF9WNA)
 
-## Footnotes
+**2021年4月（冬青）**
 
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
+和一帮朋友在聊天的时候，萌生了可以跟着**季节换城市生活**的想法。当时，大家都属于带着电脑就可以工作的一群人，环境的舒适度又极大地影响着我们的工作、生活状态。
 
-{% highlight text %}
-Clicking this number[^fn-sample_footnote]
-{% endhighlight %}
+这个想法出来的时候，虽然有朋友响应，但大家似乎没有什么动力来推进。我自己也会觉得没有什么盘房产的经验在那里阻碍着这件事的发生。
 
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
+**2022年7月（白雨）**
 
-{% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-{% endhighlight %}
+**2021年4月（冬青）**
 
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
+和一帮朋友在聊天的时候，萌生了可以跟着**季节换城市生活**的想法。当时，大家都属于带着电脑就可以工作的一群人，环境的舒适度又极大地影响着我们的工作、生活状态。
 
-## Heading
+这个想法出来的时候，虽然有朋友响应，但大家似乎没有什么动力来推进。我自己也会觉得没有什么盘房产的经验在那里阻碍着这件事的发生。
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+**2022年7月（白雨）**
 
-### Code
+换工作了，意外开启了从未预设过的线上办公模式。这个改变，也让我花了整整一年来适应转向的生活节奏。
 
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
+这一年里，一直在思考如何解决线上办公造成的​**“链接感缺失”**​。也得益于可以随心而动的自由，我短暂地尝试过几次异地办公，初步尝到了数字游民的甜头。更奇妙的是，和新环境的弱链接反而让我找到了一些突破固定关系的风口。
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+**2022年10月（冬青）**
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+一个碰巧的机会，在长沙岳麓山下和朋友一起租下了人生中第一个院子。有了这个经历，就觉得好像可以考虑起来，给自己找到多个居所，可以过上**​“随气候而居”​**的生活。
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+**2023年夏秋之交（白雨）**
 
-You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
+广州台风肆虐的这几个月，潮湿闷热、心生烦躁。在解构了对于固定居所的需求后，极度渴望能在广州恼人的天气中，去往一些更舒适的地方生活和工作。如果一年有四季，为何不能在最适合的季节去往最适合的地区呢？于是，**开拓多个居所**的念头诞生了。
 
-{% highlight js linenos %}
-// Example can be run directly in your JavaScript console
+**2023年9月11日（风信子）**
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+一条大墨雨村转租院子的链接，让找院子的事情进入了快车道。
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=MmExNzA3ODI3MDM1NGUyYzA5NmQzMWRkMTE1MjUwY2NfaVBVVDE3WnpKQXhnbnRpeXRTU3puNDUwbDZESTc3TGJfVG9rZW46R255dWJUOU1Yb3JSbDl4dUJNWWN5dWpwbnpiXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+**风信子说：不想写字，我放图**
 
-### Lists
+**2023年9月22日**
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+朋友圈出现了大理银桥的院子转租信息，我们去礼貌问价。
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+**2023年9月23日**  我们说：要不去看看院子吧。
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+**2023年10月17日**  出差的朋友跑去看了一眼。
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+**2023年11月19日**  三个人到了大理，开始批量看房并看中了其中的一间（豆瓣、小红书很帮忙）。
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+**2023年11月21日**  三个人第一次正式聊为什么要盘一个院子。
 
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+**2023年11月30日**  付定金。
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+**2024年1月10日**  签了协议。
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
+**2024年1月11日**  开始量房。
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+... ... ... ...
 
-### Images
+是的，这是一个随心而走的计划，但却有着稳步前进的状态。
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+念头在这里了，但究竟是什么让我们拍板，确定要租下这个院子呢？
 
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
+**>> 是什么促成了这个决定**
 
-Align to the center by adding `class="align-center"`:
+**【这是一个村子】**
 
-![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
+促使我们做出决定的第一个要素——这里是一个**实实在在**的村子。
 
-### Tables
+这里可以吃到本地生产的菜，有错过了时间就彻底错过了的市集；这里没有楼房，平层的活动空间很大；村子和野外的边界模糊，不同于城市千篇一律的居民楼和公园。
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+**【大环境有山、有水、有阳光】**
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+虽然大理近年被各种嫌弃，但苍山和洱海确实塑造了这里多样的自然环境，​**阳光充足**​，自然的广博造就了生活的宜人和舒适感。
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+**【适合隐居，也可以生发出多样的链接】**
 
------
+这里离我们本身的工作、社交圈很远，能够满足隐居的需求。但同时，我们既可以带着需要离开既定轨道的朋友们来这里度假，又可以和这里的各种空间、人（周围有创新学校、自然保育中心、禅修小院……）建立一些联系，寻找可以开拓的可能性。
 
-Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
+不多说了，想知道更多故事的，可以来多了解一下我们接下来的计划。
 
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
+**>> 院子长啥样**
+
+我们的院子在苍山脚下的银桥镇周边，可直下洱海，临近无为寺。
+
+村子在白族本地称呼中有“​**老酉**​”的意思，大概就是这个村子背靠的山峰矮于左右两峰，所以落日稍晚于两侧，可以享受更长时间的阳光滋润。
+
+村子也临近南诏国三阳城（取“日上 日中 日夕，晴光常照”之意）遗址与灵泉溪（取“水穿石孔，特殊灵异”之意）。
+
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=MDMyOTZhYTM2ODE5ODllMThlMzdkMTY3NDVmOTRkMjdfWllDVkRha3BSdzlvMWVvR3A4UkRFaDRTTUg3eHc2TUVfVG9rZW46U21iMGJnbENnb012Mkh4WlNZYWNUQ1B6blRjXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
+
+**院子-视角A**
+
+**院子-视角B**
+
+院子大体是一坊三墙一照壁的结构，主屋是一个木构架的白族传统民居，五个开间两层，木梁和构建都是换的新料。院子基本没有做硬化，上一任房主还留下了一个别有生趣的小菜园。
+
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=OGQyMGY2NDM4Y2VjNzZlMGZhOGEzY2E3MDliYWMwYTNfOFBzZ3Ztemp3ZmhGa3ZVQlRHdTZHakttUFUyMXBBQVdfVG9rZW46VkZzamJRQm14b0hJUFB4ZXpiRmNWRzhwbmhjXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
+
+**院子的很多隅**
+
+**这一季的草莓已经被我们暴风吃完了，又香又甜**
+
+**>> 未来的装修改造计划**
+
+院子虽好，但……
+
+这是目前的二楼，显然无法满足我们的居住需求。加上一些奇妙的​**玄学因素​**​（林工说：厕所位置得移、灶台位置也得变），这个院子还是得好好装修一番。
+
+改格局、隔房间、换动线、隔音，满足至少4人的生活和办公需求，据此，我们进行了前期的规划。
+
+**规划平面图**
+
+在未来，我们希望会有​**4间起居室，2组卫生间，1间客餐厅，2间多功能工作室，1间厨房**​，尽可能多利用阳光和白族民居的特点，留足公共空间，让大家能够舒适的生活（和工作）。
+
+我们会在​**2024年2月24日（正月十五）之后**​，正式开启装修工作。有两个工科生（和一个妄想向工科生靠齐的文科生）打底的工程，还是需要有木架构房屋装修改造经验的朋友们，提供一些必要的​**在线or现场支持**​。
+
+**>> 我们还想和大家做**
+
+在确定要租这个院子的时候，我们其实更多考虑的是个人需求，希望院子是我们三个人的一片自留地。但同时，我们也知道这里不会是我们几个人的常驻地，它更像一个“度假屋”，所以一定会有一部分时间是空置的。
+
+**于是我们想要在房屋有空置的时间段，和朋友们分享这个院子：**
+
+如果我们三个人没有同时在大理，我们接受单人住宿或者朋友结伴而来；
+
+如果你想要和家人一起来，而整个院子又是空置的，我们也愿意将院子分享给你们。
+
+但仅仅提供住宿，似乎并不是我们的初衷。这几个热爱在自己生活里搞事情的朋友，怎么会就此放过自己？因此，除了我们自己希望在这里获得的清净生活外，**如果我们不躺**，其实还是很希望和朋友们一起完成一些事情，它们可能是：
+
+* 共创一份在院子的入住指南or生活指南；
+* 设计一套卡牌：如何7天认识一个社区；
+* 主题写作：记录自己的生活实践，也许会是一些非虚构写作的东西。
+* ... ... ... ...
+
+为什么会有这样的想象？主要还是因为身边有一些朋友常常谈起自己需要或想要短暂离开自己原有的生活轨迹，尝试开始一些新的生活，但又囿于各种硬件原因以及心理的不确定感而搁置。那这里，可能就是一个机会。
+
+**我们希望这些小的行动，能给你一丝的勇气，发现开始一种新的生活并没有那么难。即使暂时无法抽身，也能够以一种新的视角来探索你原有的生活空间。**
+
+在这个共同的探索期，如果你来这里和我们分享院子，我们可以给到的是：
+
+* 满足基础生活需要的空间和硬件
+* 共居共创的生活体验（但同时也需要你自行进行衡量能否接受）
+
+如果你对我们的这个院子有所期待的话，也想要关注、参与到这个事情里面来，可以看看下面的参与方式：
+
+| 参与形式                                                           | 你的投入 | 你会收获 | 一些说明 |
+| -------------------------------------------------------------------- | ---------- | ---------- | ---------- |
+| 如果你只是想在线上围观这件事情的进展，欢迎：                       |
+| 在线围观                                                           | 随缘打赏(任何金额都可以) | 一个不吵闹的(应该吧)微信群 | 住在这里的朋友会在群里分享新生活动态,伙伴们的社区想象等等 |
+| 如果你希望来到院子，支持我们的装修改造，或者和我们一同探索，欢迎： |
+| 技术换宿                                                           | 特定技能:▪监工:看得懂图纸,能和施工沟通▪泥瓦工:能砌墙▪水电工:能改电/水路▪大厨:不烧厨房就行(拥有两项技能即可) | ▪免费住在"工地"▪实践你的技能▪一起做饭的饭搭子 | ▪在装修完成前,有2个房间可住,其他设施齐全▪装修期间居住体验不能保证，真的(只)欢迎有实操经验的朋友们,参与这一项探索 |
+| 7天以内居住分享                                                    | ▪100元/间/日▪照顾好自己 | ▪居住▪休养▪练习一种开启新生活的方法 | ▪一间最多2人入住▪两年(2024-2025)内,需提前预约入住▪如有希望更长时间的居住需求(不超过一个月),可商议▪如果你希望独立使用整个院子,可商议 |
+| 半月居住分享                                                       | ▪900元/间/15日▪照顾好自己 |
+| 团队退修会                                                         | 欢迎询价 | ▪自我梳理▪团队对话▪感知土地▪走山耕田▪读书 | ▪两年(2024-2025)内，3-5人团队退修会定制(提供住宿)▪我们可以接受的极限是一年最多2次,先到先得\~ |
+
+**一些注意事项：**
+
+* 所有的入住都是预约制，请提前沟通，**我们不接受空降的朋友**
+* 如果有其他个性化需求都可以和我们详细聊
+* 2024-2025年也是我们的一个探索期，有很多不确定的地方，想和大家一起磨合出一个机制，让这里可持续地生长下去
+* 以上信息长期有效，欢迎询问
+
+**>> 如何参与**
+
+可以发送邮件或扫码添加微信好友联系
+
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=MzMyYzFmZDFmZjFjZDFhZTMyNTFhNzVmOThiYjViYzdfbkQwNmpld1RkYlh6SFhuVUFseHEyTzFHdE95WlVOcXpfVG9rZW46VGxDQ2I3NGJHb2t6UWd4MzFFZWN0S1REblFaXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
+
+挑剔的冬青**（滕工/冬老师）**
+
+**​微信号｜​**JamesT95
+
+**​邮箱｜​**tengyukun1995@gmail.com
+
+直接告诉我们你要选择的参与方式就好，剩下的事情我们会跟你私聊的，期待得到大家的支持。
+
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=OWViODE2OTRkNGEwNTg2NWQ5YjhjNDQxNTJhYWM3NzdfTHVyR2hDY1JJRG9OQ1JxWVNzN2RBQmdCOFRtUjJSdzNfVG9rZW46VDFSRGJlUFNSb0drNlB4bXE3OWNnN1ZybkRiXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
+
+**>> 尾记**
+
+9月20日
+
+不想工作，爱不动了，躺下。
+
+9月21日
+
+扶我起来！我还能继续干！
+
+——精神更失常的人类
+
