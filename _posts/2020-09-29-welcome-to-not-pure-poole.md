@@ -22,45 +22,15 @@ toc:  true
 
 **>> 日记**
 
-![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=M2NiZTNiYTE5MDcwMTdlYWM1YTMzYWVhN2EyOGVhOTRfV3MxelFNYTdNT3NLMkV2cnJTY2U3aGxuS1JJeFI4amNfVG9rZW46VHRWdmJLdWw2b3c0TTF4RHlQUWMwR3NMbkZoXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
+![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTM5YTdmZjdhZWQwMzI1NGZiZDVmY2E2MmNkZmNlNzhfMHF4bUFPY3N3ZmJ6dVVRSkd0WERERjJaMXZoZzVJQmRfVG9rZW46U3ljcmI5dWNIbzVnYUl4WDdicWNId2lwbnVkXzE3NTk2ODAzNjg6MTc1OTY4Mzk2OF9WNA)
 
-（挑剔的）冬青
+**2021年4月（冬青）**
 
-救火队员PM，随时上线协作者
+和一帮朋友在聊天的时候，萌生了可以跟着**季节换城市生活**的想法。当时，大家都属于带着电脑就可以工作的一群人，环境的舒适度又极大地影响着我们的工作、生活状态。
 
-命里都是七杀
+这个想法出来的时候，虽然有朋友响应，但大家似乎没有什么动力来推进。我自己也会觉得没有什么盘房产的经验在那里阻碍着这件事的发生。
 
-面子社科生，里子工科生
-
-拥有仓鼠癖
-
-热爱倒腾生态缸&在村里盘院子
-
-![](https://zcnkyxqb9063.feishu.cn/space/api/box/stream/download/asynccode/?code=YzkyNGVlNmY4Mjk5OTI1NWIxZGNkYzBjMzI4ZTFiOWJfR1ZrWm1zd2s1aHEyalZqWW5wc3puSUNVU0xwME02cndfVG9rZW46U3FEeWJQZkM0bzI2RDN4UlloUWNyM1ZhbmJmXzE3NTk2Nzg5MTY6MTc1OTY4MjUxNl9WNA)
-
-（爱讲道理的）风信子
-
-朴门设计师和地主
-
-法人一号但钱袋有窟窿
-
-玄学入门级爱好者(也不赚钱)
-
-不爱当妈（但经常在）奶娃
-
-2024的愿望是给自己多存点钱
-
-（和蔼可亲的）白雨
-
-教育创新探索&实践者
-
-想要变P的J人
-
-此处唯一的打工人
-
-（所幸比较喜欢目前的工作）
-
-希望可以5分钟内从床上移动到自然中
+**2022年7月（白雨）**
 
 **2021年4月（冬青）**
 
@@ -240,5 +210,4 @@ toc:  true
 扶我起来！我还能继续干！
 
 ——精神更失常的人类
-
 
